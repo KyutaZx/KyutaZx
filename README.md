@@ -9,7 +9,7 @@
 
 ### 💬 Talking about Personal Stuffs:
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/platane/snk/main/svg/github-developer-dark.svg" alt="Developer Illustration" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Boy Animation" />
 
 * 🔭 I’m currently working on **Web Development Projects**
 * 🌱 I’m currently learning **Laravel, PHP, JavaScript, Go, C**
@@ -25,9 +25,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -49,7 +51,6 @@
 ### 🐍 GitHub Contribution Grid Snake
 
 <div align="center">
-  <!-- Pastikan Anda telah mengatur GitHub Action untuk menghasilkan snake animation ini -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyutaZx/KyutaZx/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KyutaZx/KyutaZx/output/github-contribution-grid-snake.svg">
