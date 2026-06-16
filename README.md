@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm KyutaZx, a Developer 🚀 from Indonesia.
+# Hi, I'm Kyuta, a Developer from Indonesia.
 
 <p align="left">
   <a href="#"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=home&logoColor=white"/></a>
@@ -11,16 +11,16 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Boy Animation" />
 
-* 🔭 I’m currently working on **Web Development Projects**
-* 🌱 I’m currently learning **Laravel, PHP, JavaScript, Go, C**
-* 👯 I’m looking to collaborate on **Open Source Projects**
-* 🤔 I’m looking for help with **Advanced Backend Technologies**
-* 💬 Ask me about anything, I am happy to help;
-* 📫 How to reach me: **mdayatulloh27@gmail.com**
+* I’m currently working on **Web Development Projects**
+* I’m currently learning **Laravel, PHP, JavaScript, Go, C**
+* I’m looking to collaborate on **Open Source Projects**
+* I’m looking for help with **Advanced Backend Technologies**
+* Ask me about anything, I am happy to help;
+* How to reach me: **mdayatulloh27@gmail.com**
 
 <br/>
 
-### 🛠️ Technologies I'm Learning / Using
+### Technologies I'm Learning / Using
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
